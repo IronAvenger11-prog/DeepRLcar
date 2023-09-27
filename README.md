@@ -22,14 +22,6 @@ The key to training a successful autonomous racecar lies in defining a rewarding
 
 3. **Combined Reward**: Combining proximity and progress rewards to strike the perfect balance between precision and progress.
 
-## Code Variations
-
-In pursuit of the ultimate racing agent, I've explored multiple variations of the reward functions. Here's a glimpse of the code variants I've developed:
-
-- [Proximity-Based Reward](code/proximity_based_reward.py): Rewarding the agent based on its proximity to the track center.
-- [Progress-Based Reward](code/progress_based_reward.py): Rewarding the agent based on its progress along the track.
-- [Combined Reward](code/combined_reward.py): Combining proximity and progress rewards for a comprehensive training experience.
-
 ## Getting Started
 
 Want to take a spin with my code? Follow these simple steps:
